@@ -52,10 +52,12 @@ img {
 }
 
 p {
+  font-family: 'Optima', 'Monaco';
   font-size: 1em;
 }
 
 a {
+  font-family: 'Optima', 'Monaco';
   color: black;
   text-decoration: none;
 }
